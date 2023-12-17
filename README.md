@@ -1,5 +1,5 @@
 <h1>🛠️How do I approach designing software?</h1>
-![Alt text](Screenshot 2023-12-17 142623.png)
+![Alt text](image-3.png)
 
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;Q:</strong> What new design skills has your work on the project helped you to craft?</p>
 <p><strong>&nbsp;&nbsp;&nbsp;&nbsp;A:</strong> Reading documentation on libraries to better understand the concepts and googling parts that are not clear.</p>
